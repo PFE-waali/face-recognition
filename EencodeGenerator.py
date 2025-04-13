@@ -5,7 +5,7 @@ import os
 
 
 #importing students images
-folderPath='images'
+folderPath='../images'
 PathList=os.listdir(folderPath)
 print(PathList)
 imgList=[]
